@@ -1,6 +1,6 @@
 ### Hello & Welcome! 👋
-- I am blockchain/fullstack engineer and i enjoy collaborating on complex projects that will potentially change the world, I love learning new things!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrisochuko/), [Twitter](https://twitter.com/bigchiano), [Discord](bigchiano)
+- ⚡ I am blockchain/fullstack engineer and i enjoy collaborating on complex projects that will potentially change the world, I love learning new things!
+- ⚡ How to reach me: [LinkedIn](https://www.linkedin.com/in/chrisochuko/), [Twitter](https://twitter.com/bigchiano), [Discord](bigchiano)
 - ⚡ I enjoy [music](https://open.spotify.com/playlist/37i9dQZF1E38ZjvvzEB2wq?si=f000bcf1cd1c430e) , coding and gaming.
 - ⚡ Fun fact: I am a philosopher...
 
