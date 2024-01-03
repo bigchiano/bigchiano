@@ -7,7 +7,6 @@
 ### Languages and Tools
 
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-
 <code><img alt="typescript" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" /></code>
 <code><img alt="nodejs" width="26px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_larger_button_icon_151950.png" /></code>
 <code><img  alt="React" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" /></code>
