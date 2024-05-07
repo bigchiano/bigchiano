@@ -22,8 +22,6 @@
 
 <div>
 <img align="center" alt="BigChiano GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bigchiano&show_icons=true&hide_border=true&theme=gotham" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigchiano&layout=compact&theme=gotham" />
 </div>
 
 <p>
